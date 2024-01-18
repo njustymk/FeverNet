@@ -1,3 +1,3 @@
 **FeverNet: Enabling Accurate and Robust Remote Fever Screening**
 
-![image](Framework.jpg)
+![image](Image/Framework.jpg)
